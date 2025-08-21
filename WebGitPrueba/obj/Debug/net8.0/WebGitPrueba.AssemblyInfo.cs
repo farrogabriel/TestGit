@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebGitPrueba")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb331c8ca594c36d153a3dc7e35c35d85029744a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebGitPrueba")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebGitPrueba")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
